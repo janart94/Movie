@@ -17,6 +17,6 @@ Used www.themoviedb.org to retrieve the movie list
 * Room
 
 ### Screenshot:
-https://github.com/janart94/Movie/blob/main/screenshot/Screenshot_1606672511.png
-https://github.com/janart94/Movie/blob/main/screenshot/Screenshot_1606672515.png
-https://github.com/janart94/Movie/blob/main/screenshot/Screenshot_1606672525.png
+![image](https://github.com/janart94/Movie/blob/main/screenshot/Screenshot_1606672511.png)
+![image](https://github.com/janart94/Movie/blob/main/screenshot/Screenshot_1606672515.png)
+![image](https://github.com/janart94/Movie/blob/main/screenshot/Screenshot_1606672525.png)
